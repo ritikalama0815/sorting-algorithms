@@ -87,7 +87,7 @@ Insertion Sort processes the array one element at a time, inserting each into it
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/sorting-algorithms.git
+git clone https://github.com/ritikalama0815/sorting-algorithms.git
 cd sorting-algorithms
 ```
 
