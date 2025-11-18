@@ -103,8 +103,3 @@ g++ quicksort.cpp -o quicksort
 g++ insertion.cpp -o insertion
 ./insertion
 ```
-
----
-
-
-If you want, I can rewrite this in a more formal/stylish tone, add GIFs, add algorithm diagrams, or generate the folder structure with code files too.
